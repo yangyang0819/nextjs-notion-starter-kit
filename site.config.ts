@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Privacy Policy ',
   domain: 'https://wobbly-vision-717.notion.site/Privacy-Policy-9af9e502581b484596c9b4e40eb58a54t',
-  author: 'Space Y',
+  author: 'G',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
